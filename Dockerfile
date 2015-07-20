@@ -1,4 +1,4 @@
-FROM ofayau/openjdk-compact
+FROM ofayau/openjdk:8-compact3
 
 MAINTAINER Olivier Fayau
 
